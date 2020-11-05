@@ -1,0 +1,34 @@
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.pdb
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.exe
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.pdb
+O:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe
+O:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.pdb
+O:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+O:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+O:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.csproj.GenerateResource.Cache
+O:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.exe
+O:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.pdb
+H:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.exe
+H:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.pdb
+H:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe
+H:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.pdb
+H:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.csproj.GenerateResource.Cache
+I:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.exe
+I:\Sort\Visual Studio Projects\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.pdb
+E:\Programs to Upload\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe
+E:\Programs to Upload\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.pdb
+E:\Programs to Upload\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.csprojAssemblyReference.cache
+E:\Programs to Upload\Calorie Counter\Calorie Counter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Programs to Upload\Calorie Counter\Calorie Counter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Programs to Upload\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.csproj.GenerateResource.cache
+E:\Programs to Upload\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.csproj.CoreCompileInputs.cache
+E:\Programs to Upload\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.exe
+E:\Programs to Upload\Calorie Counter\Calorie Counter\obj\x86\Debug\Calorie Counter.pdb
