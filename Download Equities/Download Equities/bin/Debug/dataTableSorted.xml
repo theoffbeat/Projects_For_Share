@@ -1,0 +1,803 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:28:00</Date>
+    <Open>52.42</Open>
+    <High>52.4200</High>
+    <Low>52.4200</Low>
+    <Close>52.4200</Close>
+    <Volume>163</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:31:00</Date>
+    <Open>52.4</Open>
+    <High>52.4000</High>
+    <Low>52.4000</Low>
+    <Close>52.4000</Close>
+    <Volume>201</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:27:00</Date>
+    <Open>52.3898</Open>
+    <High>52.3900</High>
+    <Low>52.3898</Low>
+    <Close>52.3900</Close>
+    <Volume>792</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:19:00</Date>
+    <Open>52.36</Open>
+    <High>52.3800</High>
+    <Low>52.3600</Low>
+    <Close>52.3800</Close>
+    <Volume>1034</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:08:00</Date>
+    <Open>52.38</Open>
+    <High>52.3800</High>
+    <Low>52.3600</Low>
+    <Close>52.3600</Close>
+    <Volume>300</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:13:00</Date>
+    <Open>52.35</Open>
+    <High>52.3500</High>
+    <Low>52.3500</Low>
+    <Close>52.3500</Close>
+    <Volume>1001</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:06:00</Date>
+    <Open>52.34</Open>
+    <High>52.3400</High>
+    <Low>52.3400</Low>
+    <Close>52.3400</Close>
+    <Volume>1000</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:04:00</Date>
+    <Open>52.34</Open>
+    <High>52.3400</High>
+    <Low>52.3400</Low>
+    <Close>52.3400</Close>
+    <Volume>100</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:03:00</Date>
+    <Open>52.34</Open>
+    <High>52.3400</High>
+    <Low>52.3400</Low>
+    <Close>52.3400</Close>
+    <Volume>506</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:59:00</Date>
+    <Open>52.34</Open>
+    <High>52.3400</High>
+    <Low>52.3400</Low>
+    <Close>52.3400</Close>
+    <Volume>300</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:54:00</Date>
+    <Open>52.37</Open>
+    <High>52.3700</High>
+    <Low>52.3400</Low>
+    <Close>52.3400</Close>
+    <Volume>741</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:15:00</Date>
+    <Open>52.33</Open>
+    <High>52.3300</High>
+    <Low>52.3300</Low>
+    <Close>52.3300</Close>
+    <Volume>100</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:07:00</Date>
+    <Open>52.33</Open>
+    <High>52.3300</High>
+    <Low>52.3300</Low>
+    <Close>52.3300</Close>
+    <Volume>252</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:06:00</Date>
+    <Open>52.33</Open>
+    <High>52.3300</High>
+    <Low>52.3300</Low>
+    <Close>52.3300</Close>
+    <Volume>201</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:17:00</Date>
+    <Open>52.3099</Open>
+    <High>52.3099</High>
+    <Low>52.3099</Low>
+    <Close>52.3099</Close>
+    <Volume>101</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:03:00</Date>
+    <Open>52.3</Open>
+    <High>52.3000</High>
+    <Low>52.3000</Low>
+    <Close>52.3000</Close>
+    <Volume>184</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:11:00</Date>
+    <Open>52.305</Open>
+    <High>52.3100</High>
+    <Low>52.2700</Low>
+    <Close>52.3000</Close>
+    <Volume>23877</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:14:00</Date>
+    <Open>52.25</Open>
+    <High>52.2800</High>
+    <Low>52.2300</Low>
+    <Close>52.2750</Close>
+    <Volume>29518</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:15:00</Date>
+    <Open>52.27</Open>
+    <High>52.2901</High>
+    <Low>52.2500</Low>
+    <Close>52.2650</Close>
+    <Volume>19000</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 17:00:00</Date>
+    <Open>52.25</Open>
+    <High>52.2500</High>
+    <Low>52.2500</Low>
+    <Close>52.2500</Close>
+    <Volume>394</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 16:59:00</Date>
+    <Open>52.25</Open>
+    <High>52.2500</High>
+    <Low>52.2500</Low>
+    <Close>52.2500</Close>
+    <Volume>258</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:13:00</Date>
+    <Open>52.25</Open>
+    <High>52.2550</High>
+    <Low>52.2300</Low>
+    <Close>52.2500</Close>
+    <Volume>13666</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:12:00</Date>
+    <Open>52.31</Open>
+    <High>52.3100</High>
+    <Low>52.2500</Low>
+    <Close>52.2500</Close>
+    <Volume>24003</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:32:00</Date>
+    <Open>52.22</Open>
+    <High>52.2200</High>
+    <Low>52.2200</Low>
+    <Close>52.2200</Close>
+    <Volume>120</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:25:00</Date>
+    <Open>52.19</Open>
+    <High>52.2200</High>
+    <Low>52.1850</Low>
+    <Close>52.2200</Close>
+    <Volume>30771</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:27:00</Date>
+    <Open>52.21</Open>
+    <High>52.2100</High>
+    <Low>52.2100</Low>
+    <Close>52.2100</Close>
+    <Volume>1000</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:25:00</Date>
+    <Open>52.21</Open>
+    <High>52.2100</High>
+    <Low>52.2100</Low>
+    <Close>52.2100</Close>
+    <Volume>101</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:16:00</Date>
+    <Open>52.26</Open>
+    <High>52.2600</High>
+    <Low>52.1900</Low>
+    <Close>52.2100</Close>
+    <Volume>22138</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:18:00</Date>
+    <Open>52.195</Open>
+    <High>52.2150</High>
+    <Low>52.1750</Low>
+    <Close>52.1950</Close>
+    <Volume>22876</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:17:00</Date>
+    <Open>52.21</Open>
+    <High>52.2200</High>
+    <Low>52.1850</Low>
+    <Close>52.1900</Close>
+    <Volume>29786</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:23:00</Date>
+    <Open>52.15</Open>
+    <High>52.1917</High>
+    <Low>52.1300</Low>
+    <Close>52.1850</Close>
+    <Volume>32588</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:24:00</Date>
+    <Open>52.19</Open>
+    <High>52.2000</High>
+    <Low>52.1700</Low>
+    <Close>52.1800</Close>
+    <Volume>14877</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:21:00</Date>
+    <Open>52.12</Open>
+    <High>52.1650</High>
+    <Low>52.1050</Low>
+    <Close>52.1650</Close>
+    <Volume>28934</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:26:00</Date>
+    <Open>52.215</Open>
+    <High>52.2150</High>
+    <Low>52.1600</Low>
+    <Close>52.1600</Close>
+    <Volume>22693</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:19:00</Date>
+    <Open>52.18</Open>
+    <High>52.2100</High>
+    <Low>52.1500</Low>
+    <Close>52.1550</Close>
+    <Volume>25594</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:22:00</Date>
+    <Open>52.165</Open>
+    <High>52.1850</High>
+    <Low>52.1400</Low>
+    <Close>52.1500</Close>
+    <Volume>23925</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:55:00</Date>
+    <Open>52.08</Open>
+    <High>52.1500</High>
+    <Low>52.0550</Low>
+    <Close>52.1400</Close>
+    <Volume>64835</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:47:00</Date>
+    <Open>52.03</Open>
+    <High>52.1350</High>
+    <Low>52.0200</Low>
+    <Close>52.1300</Close>
+    <Volume>49760</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:20:00</Date>
+    <Open>52.14</Open>
+    <High>52.1650</High>
+    <Low>52.1000</Low>
+    <Close>52.1150</Close>
+    <Volume>68835</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:36:00</Date>
+    <Open>52.22</Open>
+    <High>52.2200</High>
+    <Low>52.1100</Low>
+    <Close>52.1100</Close>
+    <Volume>527</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 16:38:00</Date>
+    <Open>52.1</Open>
+    <High>52.1100</High>
+    <Low>52.1000</Low>
+    <Close>52.1100</Close>
+    <Volume>1025</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:48:00</Date>
+    <Open>52.125</Open>
+    <High>52.1500</High>
+    <Low>52.0950</Low>
+    <Close>52.1001</Close>
+    <Volume>36676</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 16:35:00</Date>
+    <Open>52.04</Open>
+    <High>52.1000</High>
+    <Low>52.0400</Low>
+    <Close>52.1000</Close>
+    <Volume>1000</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:54:00</Date>
+    <Open>52.03</Open>
+    <High>52.1100</High>
+    <Low>52.0300</Low>
+    <Close>52.0850</Close>
+    <Volume>46820</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:38:00</Date>
+    <Open>52.08</Open>
+    <High>52.0800</High>
+    <Low>52.0800</Low>
+    <Close>52.0800</Close>
+    <Volume>799</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:27:00</Date>
+    <Open>52.17</Open>
+    <High>52.1700</High>
+    <Low>52.0800</Low>
+    <Close>52.0800</Close>
+    <Volume>29908</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:36:00</Date>
+    <Open>52.07</Open>
+    <High>52.1100</High>
+    <Low>52.0600</Low>
+    <Close>52.0700</Close>
+    <Volume>32696</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:35:00</Date>
+    <Open>52.05</Open>
+    <High>52.0800</High>
+    <Low>52.0200</Low>
+    <Close>52.0700</Close>
+    <Volume>22589</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:34:00</Date>
+    <Open>51.99</Open>
+    <High>52.0900</High>
+    <Low>51.9600</Low>
+    <Close>52.0600</Close>
+    <Volume>54654</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:28:00</Date>
+    <Open>52.09</Open>
+    <High>52.0900</High>
+    <Low>52.0000</Low>
+    <Close>52.0500</Close>
+    <Volume>48950</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:42:00</Date>
+    <Open>52.01</Open>
+    <High>52.0500</High>
+    <Low>52.0100</Low>
+    <Close>52.0450</Close>
+    <Volume>25638</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:37:00</Date>
+    <Open>52.075</Open>
+    <High>52.0800</High>
+    <Low>52.0400</Low>
+    <Close>52.0450</Close>
+    <Volume>26834</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:31:00</Date>
+    <Open>52</Open>
+    <High>52.0550</High>
+    <Low>52.0000</Low>
+    <Close>52.0450</Close>
+    <Volume>34633</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:52:00</Date>
+    <Open>51.99</Open>
+    <High>52.0400</High>
+    <Low>51.9900</Low>
+    <Close>52.0400</Close>
+    <Volume>35053</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:40:00</Date>
+    <Open>52.02</Open>
+    <High>52.0450</High>
+    <Low>52.0050</Low>
+    <Close>52.0400</Close>
+    <Volume>19634</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:38:00</Date>
+    <Open>52.045</Open>
+    <High>52.0600</High>
+    <Low>52.0000</Low>
+    <Close>52.0400</Close>
+    <Volume>25355</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:32:00</Date>
+    <Open>52.05</Open>
+    <High>52.0900</High>
+    <Low>52.0400</Low>
+    <Close>52.0400</Close>
+    <Volume>25959</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:53:00</Date>
+    <Open>52.045</Open>
+    <High>52.0600</High>
+    <Low>52.0200</Low>
+    <Close>52.0350</Close>
+    <Volume>21952</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:49:00</Date>
+    <Open>52.1</Open>
+    <High>52.1000</High>
+    <Low>52.0300</Low>
+    <Close>52.0350</Close>
+    <Volume>52179</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:46:00</Date>
+    <Open>52.01</Open>
+    <High>52.0700</High>
+    <Low>51.9700</Low>
+    <Close>52.0350</Close>
+    <Volume>41599</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 16:21:00</Date>
+    <Open>52.03</Open>
+    <High>52.0300</High>
+    <Low>52.0300</Low>
+    <Close>52.0300</Close>
+    <Volume>100</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:44:00</Date>
+    <Open>51.99</Open>
+    <High>52.0300</High>
+    <Low>51.9850</Low>
+    <Close>52.0300</Close>
+    <Volume>33875</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:39:00</Date>
+    <Open>52.035</Open>
+    <High>52.0600</High>
+    <Low>52.0100</Low>
+    <Close>52.0200</Close>
+    <Volume>17255</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:29:00</Date>
+    <Open>52.06</Open>
+    <High>52.0700</High>
+    <Low>52.0050</Low>
+    <Close>52.0200</Close>
+    <Volume>16570</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:41:00</Date>
+    <Open>52.035</Open>
+    <High>52.0400</High>
+    <Low>52.0000</Low>
+    <Close>52.0138</Close>
+    <Volume>23730</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:58:00</Date>
+    <Open>52</Open>
+    <High>52.0100</High>
+    <Low>51.9600</Low>
+    <Close>52.0100</Close>
+    <Volume>47689</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:45:00</Date>
+    <Open>52.03</Open>
+    <High>52.0500</High>
+    <Low>52.0000</Low>
+    <Close>52.0100</Close>
+    <Volume>25803</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:59:00</Date>
+    <Open>52</Open>
+    <High>52.0150</High>
+    <Low>51.9600</Low>
+    <Close>52.0000</Close>
+    <Volume>72682</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:57:00</Date>
+    <Open>51.97</Open>
+    <High>52.0200</High>
+    <Low>51.9300</Low>
+    <Close>52.0000</Close>
+    <Volume>59580</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:51:00</Date>
+    <Open>51.98</Open>
+    <High>52.0900</High>
+    <Low>51.9300</Low>
+    <Close>51.9900</Close>
+    <Volume>104741</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:43:00</Date>
+    <Open>52.045</Open>
+    <High>52.0500</High>
+    <Low>51.9800</Low>
+    <Close>51.9900</Close>
+    <Volume>29495</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:30:00</Date>
+    <Open>52.015</Open>
+    <High>52.0150</High>
+    <Low>51.9700</Low>
+    <Close>51.9900</Close>
+    <Volume>33863</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:33:00</Date>
+    <Open>52.03</Open>
+    <High>52.0300</High>
+    <Low>51.9700</Low>
+    <Close>51.9850</Close>
+    <Volume>39828</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:50:00</Date>
+    <Open>52.035</Open>
+    <High>52.0500</High>
+    <Low>51.9600</Low>
+    <Close>51.9800</Close>
+    <Volume>43989</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:57:00</Date>
+    <Open>51.95</Open>
+    <High>51.9600</High>
+    <Low>51.9500</Low>
+    <Close>51.9600</Close>
+    <Volume>1055</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:47:00</Date>
+    <Open>51.96</Open>
+    <High>51.9600</High>
+    <Low>51.9600</Low>
+    <Close>51.9600</Close>
+    <Volume>100</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:41:00</Date>
+    <Open>51.96</Open>
+    <High>51.9600</High>
+    <Low>51.9600</Low>
+    <Close>51.9600</Close>
+    <Volume>1277</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:30:00</Date>
+    <Open>51.89</Open>
+    <High>51.9600</High>
+    <Low>51.8900</Low>
+    <Close>51.9600</Close>
+    <Volume>1936</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 16:34:00</Date>
+    <Open>51.96</Open>
+    <High>51.9600</High>
+    <Low>51.9600</Low>
+    <Close>51.9600</Close>
+    <Volume>11354</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 16:01:00</Date>
+    <Open>51.96</Open>
+    <High>51.9600</High>
+    <Low>51.9600</Low>
+    <Close>51.9600</Close>
+    <Volume>178115</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 16:00:00</Date>
+    <Open>52</Open>
+    <High>52.0500</High>
+    <Low>51.9400</Low>
+    <Close>51.9600</Close>
+    <Volume>161270</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 15:56:00</Date>
+    <Open>52.13</Open>
+    <High>52.1300</High>
+    <Low>51.9600</Low>
+    <Close>51.9600</Close>
+    <Volume>88151</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 20:00:00</Date>
+    <Open>51.95</Open>
+    <High>51.9500</High>
+    <Low>51.9500</Low>
+    <Close>51.9500</Close>
+    <Volume>500</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:56:00</Date>
+    <Open>51.95</Open>
+    <High>51.9500</High>
+    <Low>51.9500</Low>
+    <Close>51.9500</Close>
+    <Volume>280</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:51:00</Date>
+    <Open>51.95</Open>
+    <High>51.9500</High>
+    <Low>51.9500</Low>
+    <Close>51.9500</Close>
+    <Volume>895</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:42:00</Date>
+    <Open>51.9</Open>
+    <High>51.9000</High>
+    <Low>51.8500</Low>
+    <Close>51.9000</Close>
+    <Volume>1300</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:46:00</Date>
+    <Open>51.9</Open>
+    <High>51.9000</High>
+    <Low>51.9000</Low>
+    <Close>51.9000</Close>
+    <Volume>440</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:45:00</Date>
+    <Open>51.9</Open>
+    <High>51.9000</High>
+    <Low>51.9000</Low>
+    <Close>51.9000</Close>
+    <Volume>5150</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:43:00</Date>
+    <Open>51.8</Open>
+    <High>51.8500</High>
+    <Low>51.8000</Low>
+    <Close>51.8500</Close>
+    <Volume>353</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:29:00</Date>
+    <Open>51.85</Open>
+    <High>51.8500</High>
+    <Low>51.8500</Low>
+    <Close>51.8500</Close>
+    <Volume>200</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:17:00</Date>
+    <Open>51.85</Open>
+    <High>51.8500</High>
+    <Low>51.8500</Low>
+    <Close>51.8500</Close>
+    <Volume>491</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:13:00</Date>
+    <Open>51.85</Open>
+    <High>51.8500</High>
+    <Low>51.8500</Low>
+    <Close>51.8500</Close>
+    <Volume>204</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:04:00</Date>
+    <Open>51.85</Open>
+    <High>51.8500</High>
+    <Low>51.8500</Low>
+    <Close>51.8500</Close>
+    <Volume>700</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:51:00</Date>
+    <Open>51.9</Open>
+    <High>51.9000</High>
+    <Low>51.8500</Low>
+    <Close>51.8500</Close>
+    <Volume>1538</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:55:00</Date>
+    <Open>51.7</Open>
+    <High>51.7000</High>
+    <Low>51.7000</Low>
+    <Close>51.7000</Close>
+    <Volume>900</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:53:00</Date>
+    <Open>51.7</Open>
+    <High>51.7100</High>
+    <Low>51.7000</Low>
+    <Close>51.7000</Close>
+    <Volume>4025</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:52:00</Date>
+    <Open>51.85</Open>
+    <High>51.8500</High>
+    <Low>51.7000</Low>
+    <Close>51.7000</Close>
+    <Volume>10221</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 19:02:00</Date>
+    <Open>51.5</Open>
+    <High>51.5000</High>
+    <Low>51.5000</Low>
+    <Close>51.5000</Close>
+    <Volume>1250</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:58:00</Date>
+    <Open>51.5</Open>
+    <High>51.5000</High>
+    <Low>51.5000</Low>
+    <Close>51.5000</Close>
+    <Volume>465</Volume>
+  </Stock_x0020_Data>
+  <Stock_x0020_Data>
+    <Date>2020-11-04 18:56:00</Date>
+    <Open>51.5</Open>
+    <High>51.5000</High>
+    <Low>51.4800</Low>
+    <Close>51.4800</Close>
+    <Volume>2100</Volume>
+  </Stock_x0020_Data>
+</DocumentElement>

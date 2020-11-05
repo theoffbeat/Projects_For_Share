@@ -1,0 +1,7 @@
+E:\Programs to Upload\Download Equities\Download Equities\Download Equities\bin\Debug\Download Equities.exe.config
+E:\Programs to Upload\Download Equities\Download Equities\Download Equities\bin\Debug\Download Equities.exe
+E:\Programs to Upload\Download Equities\Download Equities\Download Equities\bin\Debug\Download Equities.pdb
+E:\Programs to Upload\Download Equities\Download Equities\Download Equities\obj\Debug\Download Equities.csprojAssemblyReference.cache
+E:\Programs to Upload\Download Equities\Download Equities\Download Equities\obj\Debug\Download Equities.csproj.CoreCompileInputs.cache
+E:\Programs to Upload\Download Equities\Download Equities\Download Equities\obj\Debug\Download Equities.exe
+E:\Programs to Upload\Download Equities\Download Equities\Download Equities\obj\Debug\Download Equities.pdb
