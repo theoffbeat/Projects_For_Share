@@ -1,0 +1,28 @@
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Currency Converter\Currency Converter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Currency Converter\Currency Converter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Currency Converter\Currency Converter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Currency Converter\Currency Converter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Currency Converter\Currency Converter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.exe
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.pdb
+O:\Sort\Visual Studio Projects\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.exe
+O:\Sort\Visual Studio Projects\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.pdb
+O:\Sort\Visual Studio Projects\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+O:\Sort\Visual Studio Projects\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+O:\Sort\Visual Studio Projects\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.csprojResolveAssemblyReference.cache
+O:\Sort\Visual Studio Projects\Currency Converter\Currency Converter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+O:\Sort\Visual Studio Projects\Currency Converter\Currency Converter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+O:\Sort\Visual Studio Projects\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.csproj.GenerateResource.Cache
+I:\Sort\Visual Studio Projects\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.exe
+I:\Sort\Visual Studio Projects\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.pdb
+E:\Programs to Upload\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+E:\Programs to Upload\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+E:\Programs to Upload\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.csprojAssemblyReference.cache
+E:\Programs to Upload\Currency Converter\Currency Converter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Programs to Upload\Currency Converter\Currency Converter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Programs to Upload\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.csproj.GenerateResource.cache
+E:\Programs to Upload\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.csproj.CoreCompileInputs.cache
+E:\Programs to Upload\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.exe
+E:\Programs to Upload\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.pdb
