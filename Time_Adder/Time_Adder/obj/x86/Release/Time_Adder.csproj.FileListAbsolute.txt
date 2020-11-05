@@ -1,0 +1,19 @@
+D:\Time_Adder\Time_Adder\bin\Release\Time_Adder.exe
+D:\Time_Adder\Time_Adder\bin\Release\Time_Adder.pdb
+D:\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.exe
+D:\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.pdb
+D:\Downloads\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.exe
+D:\Downloads\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.pdb
+D:\Downloads\Time_Adder\Time_Adder\bin\Release\Time_Adder.exe
+D:\Downloads\Time_Adder\Time_Adder\bin\Release\Time_Adder.pdb
+D:\Downloads\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.csprojResolveAssemblyReference.cache
+F:\Sort\Visual Studio Projects\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.exe
+F:\Sort\Visual Studio Projects\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.pdb
+H:\Sort\Visual Studio Projects\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.exe
+H:\Sort\Visual Studio Projects\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.pdb
+E:\Programs to Upload\Time_Adder\Time_Adder\bin\Release\Time_Adder.exe
+E:\Programs to Upload\Time_Adder\Time_Adder\bin\Release\Time_Adder.pdb
+E:\Programs to Upload\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.csprojAssemblyReference.cache
+E:\Programs to Upload\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.csproj.CoreCompileInputs.cache
+E:\Programs to Upload\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.exe
+E:\Programs to Upload\Time_Adder\Time_Adder\obj\x86\Release\Time_Adder.pdb

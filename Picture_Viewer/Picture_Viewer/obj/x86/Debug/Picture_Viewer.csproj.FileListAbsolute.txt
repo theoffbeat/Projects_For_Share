@@ -1,0 +1,37 @@
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Picture_Viewer\bin\Debug\Picture_Viewer.exe
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Picture_Viewer\bin\Debug\Picture_Viewer.pdb
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Picture_Viewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Picture_Viewer\obj\x86\Debug\Picture_Viewer.Form1.resources
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Picture_Viewer\obj\x86\Debug\Picture_Viewer.Properties.Resources.resources
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Picture_Viewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Picture_Viewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Picture_Viewer\obj\x86\Debug\Picture_Viewer.exe
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Picture_Viewer\obj\x86\Debug\Picture_Viewer.pdb
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.exe
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.pdb
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Picture_Viewer\Picture_Viewer\bin\Debug\Picture_Viewer.exe
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Picture_Viewer\Picture_Viewer\bin\Debug\Picture_Viewer.pdb
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.Form1.resources
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.Properties.Resources.resources
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\Sort\Visual Studio Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.exe
+O:\Sort\Visual Studio Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.pdb
+I:\Sort\Visual Studio Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.exe
+I:\Sort\Visual Studio Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.pdb
+I:\Sort\Visual Studio Projects\Picture_Viewer\Picture_Viewer\bin\Debug\Picture_Viewer.exe
+I:\Sort\Visual Studio Projects\Picture_Viewer\Picture_Viewer\bin\Debug\Picture_Viewer.pdb
+I:\Sort\Visual Studio Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.csprojResolveAssemblyReference.cache
+I:\Sort\Visual Studio Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.Form1.resources
+I:\Sort\Visual Studio Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.Properties.Resources.resources
+I:\Sort\Visual Studio Projects\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.csproj.GenerateResource.Cache
+E:\Programs to Upload\Picture_Viewer\Picture_Viewer\bin\Debug\Picture_Viewer.exe
+E:\Programs to Upload\Picture_Viewer\Picture_Viewer\bin\Debug\Picture_Viewer.pdb
+E:\Programs to Upload\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.csprojAssemblyReference.cache
+E:\Programs to Upload\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.Form1.resources
+E:\Programs to Upload\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.Properties.Resources.resources
+E:\Programs to Upload\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.csproj.GenerateResource.cache
+E:\Programs to Upload\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.csproj.CoreCompileInputs.cache
+E:\Programs to Upload\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.exe
+E:\Programs to Upload\Picture_Viewer\Picture_Viewer\obj\x86\Debug\Picture_Viewer.pdb
