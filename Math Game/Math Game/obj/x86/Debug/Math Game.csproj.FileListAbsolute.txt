@@ -1,0 +1,31 @@
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Math Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Math Game\obj\x86\Debug\Math_Game.sum.resources
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Math Game\obj\x86\Debug\Math_Game.Properties.Resources.resources
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Math Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Math Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Math Game\bin\Debug\Math Game.exe
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Math Game\bin\Debug\Math Game.pdb
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Math Game\obj\x86\Debug\Math Game.exe
+C:\Users\HP-PC\AppData\Local\Temporary Projects\Math Game\obj\x86\Debug\Math Game.pdb
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Math Game\Math Game\obj\x86\Debug\Math Game.exe
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Math Game\Math Game\obj\x86\Debug\Math Game.pdb
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Math Game\Math Game\bin\Debug\Math Game.exe
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Math Game\Math Game\bin\Debug\Math Game.pdb
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Math Game\Math Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Math Game\Math Game\obj\x86\Debug\Math_Game.Math_Game.resources
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Math Game\Math Game\obj\x86\Debug\Math_Game.Properties.Resources.resources
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Math Game\Math Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP-PC\documents\visual studio 2010\Projects\Math Game\Math Game\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Sort\Visual Studio Projects\Math Game\Math Game\obj\x86\Debug\Math Game.exe
+I:\Sort\Visual Studio Projects\Math Game\Math Game\obj\x86\Debug\Math Game.pdb
+H:\Sort\Visual Studio Projects\Math Game\Math Game\obj\x86\Debug\Math Game.exe
+H:\Sort\Visual Studio Projects\Math Game\Math Game\obj\x86\Debug\Math Game.pdb
+E:\Programs to Upload\Math Game\Math Game\bin\Debug\Math Game.exe
+E:\Programs to Upload\Math Game\Math Game\bin\Debug\Math Game.pdb
+E:\Programs to Upload\Math Game\Math Game\obj\x86\Debug\Math Game.csprojAssemblyReference.cache
+E:\Programs to Upload\Math Game\Math Game\obj\x86\Debug\Math_Game.Math_Game.resources
+E:\Programs to Upload\Math Game\Math Game\obj\x86\Debug\Math_Game.Properties.Resources.resources
+E:\Programs to Upload\Math Game\Math Game\obj\x86\Debug\Math Game.csproj.GenerateResource.cache
+E:\Programs to Upload\Math Game\Math Game\obj\x86\Debug\Math Game.csproj.CoreCompileInputs.cache
+E:\Programs to Upload\Math Game\Math Game\obj\x86\Debug\Math Game.exe
+E:\Programs to Upload\Math Game\Math Game\obj\x86\Debug\Math Game.pdb
